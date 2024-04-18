@@ -74,7 +74,7 @@ def ExtractDocFile(CurrDirectory, text_to_find, newPath):
                                 text_found = True
                                 break  # Exit the loop once text is found
                         if not text_found:
-                            print("\nNo Passed Result Found for file:", FilePath)
+                            print("\nNo Result Found for file:", FilePath)
             else:
                 print("\nNo Docs File Found in:", doc_folderPath)
 
