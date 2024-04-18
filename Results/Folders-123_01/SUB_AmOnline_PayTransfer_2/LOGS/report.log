@@ -1,0 +1,69 @@
+2023-09-12 22:04:31 : *************************************************
+2023-09-12 22:04:31 : * * * * * * SUB_AmOnline_PayTransfer_2
+2023-09-12 22:04:31 : *************************************************
+2023-09-12 22:04:31 : * * * * * * Test Step  1* * * * * * 
+2023-09-12 22:04:31 : Step Name   : Launch New Page
+2023-09-12 22:04:32 : Test Status : PASSED
+2023-09-12 22:04:32 : Test Data   : CHROME
+2023-09-12 22:04:32 : * * * * * * Test Step  2* * * * * * 
+2023-09-12 22:04:32 : Step Name   : Wait Object
+2023-09-12 22:04:32 : Test Status : PASSED
+2023-09-12 22:04:32 : Test Data   : 
+2023-09-12 22:04:32 : * * * * * * Test Step  3* * * * * * 
+2023-09-12 22:04:32 : Step Name   : Wait Object
+2023-09-12 22:04:38 : Test Status : PASSED
+2023-09-12 22:04:38 : Test Data   : 
+2023-09-12 22:04:38 : * * * * * * Test Step  4* * * * * * 
+2023-09-12 22:04:38 : Step Name   : [AmOnline] Enter UserName
+2023-09-12 22:04:39 : Test Status : PASSED
+2023-09-12 22:04:39 : Test Data   : Pepsi11
+2023-09-12 22:04:39 : * * * * * * Test Step  5* * * * * * 
+2023-09-12 22:04:39 : Step Name   : [AmOnline] Eclick Login Now
+2023-09-12 22:04:39 : Test Status : PASSED
+2023-09-12 22:04:39 : Test Data   : N/A
+2023-09-12 22:04:39 : * * * * * * Test Step  6* * * * * * 
+2023-09-12 22:04:39 : Step Name   : Wait Object
+2023-09-12 22:04:39 : Test Status : PASSED
+2023-09-12 22:04:39 : Test Data   : 
+2023-09-12 22:04:39 : * * * * * * Test Step  7* * * * * * 
+2023-09-12 22:04:39 : Step Name   : [AmOnline] Click Yes Button
+2023-09-12 22:04:40 : Test Status : PASSED
+2023-09-12 22:04:40 : Test Data   : N/A
+2023-09-12 22:04:40 : * * * * * * Test Step  8* * * * * * 
+2023-09-12 22:04:40 : Step Name   : Wait Object
+2023-09-12 22:04:40 : Test Status : PASSED
+2023-09-12 22:04:40 : Test Data   : 
+2023-09-12 22:04:40 : * * * * * * Test Step  9* * * * * * 
+2023-09-12 22:04:40 : Step Name   : [AmOnline] Enter Password
+2023-09-12 22:04:41 : Test Status : PASSED
+2023-09-12 22:04:41 : Test Data   : zaq123
+2023-09-12 22:04:41 : * * * * * * Test Step  10* * * * * * 
+2023-09-12 22:04:41 : Step Name   : [AmOnline] Click Login Button
+2023-09-12 22:04:42 : Test Status : PASSED
+2023-09-12 22:04:42 : Test Data   : N/A
+2023-09-12 22:04:42 : * * * * * * Test Step  11* * * * * * 
+2023-09-12 22:04:42 : Step Name   : Wait Object
+2023-09-12 22:05:02 : no such element: Unable to locate element: {"method":"xpath","selector":"(//p[text()='YOU HAVE'])[1]"}
+  (Session info: chrome=116.0.5845.187)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'LAPTOP-HRTBM8OC', ip: '192.168.0.106', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.187, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:11947}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe00eba7d19236d62efc53570be9c0c
+*** Element info: {Using=xpath, value=(//p[text()='YOU HAVE'])[1]}
+2023-09-12 22:05:02 : Test Status : PASSED
+2023-09-12 22:05:02 : Test Data   : 
+2023-09-12 22:05:02 : * * * * * * Test Step  12* * * * * * 
+2023-09-12 22:05:02 : Step Name   : Wait Object
+2023-09-12 22:05:04 : Test Status : PASSED
+2023-09-12 22:05:04 : Test Data   : 
+2023-09-12 22:05:04 : * * * * * * Test Step  13* * * * * * 
+2023-09-12 22:05:04 : Step Name   : [AmOnline] Click Transfer Button
+2023-09-12 22:05:05 : Test Status : FAILED
+2023-09-12 22:05:05 : Test Data   : N/A
+2023-09-12 22:05:05 : *************************************************
+2023-09-12 22:05:05 : 			PRODUCING REPORT
+2023-09-12 22:05:05 : *************************************************
+2023-09-12 22:05:05 : Generate HTM
+2023-09-12 22:05:05 : ***********************END***********************

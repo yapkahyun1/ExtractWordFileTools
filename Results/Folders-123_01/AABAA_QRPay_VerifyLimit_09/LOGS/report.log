@@ -1,0 +1,337 @@
+2024-02-27 15:44:50 : *************************************************
+2024-02-27 15:44:50 : * * * * * * AABAA_QRPay_VerifyLimit_09
+2024-02-27 15:44:50 : *************************************************
+2024-02-27 15:44:50 : * * * * * * Test Step  1* * * * * * 
+2024-02-27 15:44:50 : Step Name   : Launch App
+2024-02-27 15:44:52 : Test Status : PASSED
+2024-02-27 15:44:52 : Test Data   : 
+2024-02-27 15:44:55 : * * * * * * Test Step  2* * * * * * 
+2024-02-27 15:44:55 : Step Name   : [IF] Supporting Case
+2024-02-27 15:44:55 : Test Status : FAILED
+2024-02-27 15:44:55 : Test Data   : NO
+2024-02-27 15:44:56 : * * * * * * Test Step  4* * * * * * 
+2024-02-27 15:44:56 : Step Name   : [IF] Supporting Case
+2024-02-27 15:44:56 : Test Status : FAILED
+2024-02-27 15:44:56 : Test Data   : ChangeImage
+2024-02-27 15:44:56 : * * * * * * Test Step  10* * * * * * 
+2024-02-27 15:44:56 : Step Name   : CloseWindow
+2024-02-27 15:44:56 : Test Status : PASSED
+2024-02-27 15:44:56 : Test Data   : 
+2024-02-27 15:44:59 : * * * * * * Test Step  11* * * * * * 
+2024-02-27 15:44:59 : Step Name   : [Launch Page - BBO Page]
+2024-02-27 15:44:59 : Test Status : PASSED
+2024-02-27 15:44:59 : Test Data   : CHROME
+2024-02-27 15:44:59 : * * * * * * Test Step  12* * * * * * 
+2024-02-27 15:44:59 : Step Name   : [IF] Change Service Package
+2024-02-27 15:44:59 : Test Status : FAILED
+2024-02-27 15:44:59 : Test Data   : NO
+2024-02-27 15:45:03 : * * * * * * Test Step  129* * * * * * 
+2024-02-27 15:45:03 : Step Name   : [Close Page - BBO Page]
+2024-02-27 15:45:03 : Test Status : PASSED
+2024-02-27 15:45:03 : Test Data   : 
+2024-02-27 15:45:06 : * * * * * * Test Step  130* * * * * * 
+2024-02-27 15:45:06 : Step Name   : Launch New Browser
+2024-02-27 15:45:07 : Test Status : PASSED
+2024-02-27 15:45:07 : Test Data   : CHROME
+2024-02-27 15:45:07 : * * * * * * Test Step  131* * * * * * 
+2024-02-27 15:45:07 : Step Name   : [IF] Verify Duitnow Limit
+2024-02-27 15:45:07 : Test Status : PASSED
+2024-02-27 15:45:07 : Test Data   : YES
+2024-02-27 15:45:07 : * * * * * * Test Step  132* * * * * * 
+2024-02-27 15:45:07 : Step Name   : Wait Object
+2024-02-27 15:45:07 : Test Status : PASSED
+2024-02-27 15:45:07 : Test Data   : 
+2024-02-27 15:45:07 : * * * * * * Test Step  133* * * * * * 
+2024-02-27 15:45:07 : Step Name   : [BBO] Input [Username]
+2024-02-27 15:45:07 : Test Status : PASSED
+2024-02-27 15:45:07 : Test Data   : C0007065
+2024-02-27 15:45:07 : * * * * * * Test Step  134* * * * * * 
+2024-02-27 15:45:07 : Step Name   : [BBO] Input [Password]
+2024-02-27 15:45:07 : Test Status : PASSED
+2024-02-27 15:45:07 : Test Data   : Ambank@0124
+2024-02-27 15:45:07 : * * * * * * Test Step  135* * * * * * 
+2024-02-27 15:45:07 : Step Name   : [BBO] Click [Submit]
+2024-02-27 15:45:08 : Test Status : PASSED
+2024-02-27 15:45:08 : Test Data   : n/a
+2024-02-27 15:45:08 : * * * * * * Test Step  136* * * * * * 
+2024-02-27 15:45:08 : Step Name   : Wait Object
+2024-02-27 15:45:08 : Test Status : PASSED
+2024-02-27 15:45:08 : Test Data   : 
+2024-02-27 15:45:08 : * * * * * * Test Step  137* * * * * * 
+2024-02-27 15:45:08 : Step Name   : [IF] LOGIN VALIDATION
+2024-02-27 15:45:08 : Object Exist
+2024-02-27 15:45:08 : Test Status : PASSED
+2024-02-27 15:45:08 : Test Data   : 
+2024-02-27 15:45:08 : * * * * * * Test Step  138* * * * * * 
+2024-02-27 15:45:08 : Step Name   : Wait Object
+2024-02-27 15:45:08 : Test Status : PASSED
+2024-02-27 15:45:08 : Test Data   : 
+2024-02-27 15:45:08 : * * * * * * Test Step  139* * * * * * 
+2024-02-27 15:45:08 : Step Name   : [BBO] Click [More]
+2024-02-27 15:45:08 : Test Status : PASSED
+2024-02-27 15:45:08 : Test Data   : N/A
+2024-02-27 15:45:08 : * * * * * * Test Step  140* * * * * * 
+2024-02-27 15:45:08 : Step Name   : Wait Object
+2024-02-27 15:45:09 : Test Status : PASSED
+2024-02-27 15:45:09 : Test Data   : 
+2024-02-27 15:45:09 : * * * * * * Test Step  141* * * * * * 
+2024-02-27 15:45:09 : Step Name   : [BBO] Click [System Parameter]
+2024-02-27 15:45:09 : Test Status : PASSED
+2024-02-27 15:45:09 : Test Data   : N/A
+2024-02-27 15:45:09 : * * * * * * Test Step  142* * * * * * 
+2024-02-27 15:45:09 : Step Name   : Wait Object
+2024-02-27 15:45:12 : Test Status : PASSED
+2024-02-27 15:45:12 : Test Data   : 
+2024-02-27 15:45:12 : * * * * * * Test Step  143* * * * * * 
+2024-02-27 15:45:12 : Step Name   : Scroll
+2024-02-27 15:45:12 : Test Status : PASSED
+2024-02-27 15:45:12 : Test Data   : 
+2024-02-27 15:45:12 : * * * * * * Test Step  144* * * * * * 
+2024-02-27 15:45:12 : Step Name   : [BBO] Verify [Duitnow Limit]
+2024-02-27 15:45:13 : --20,000.00--
+2024-02-27 15:45:13 : --20,000.00--
+2024-02-27 15:45:13 : Test Status : PASSED
+2024-02-27 15:45:13 : Test Data   : 
+2024-02-27 15:45:13 : * * * * * * Test Step  145* * * * * * 
+2024-02-27 15:45:13 : Step Name   : [BBO] [Profile Information] Click [Logout] 
+2024-02-27 15:45:13 : Test Status : PASSED
+2024-02-27 15:45:13 : Test Data   : N/A
+2024-02-27 15:45:13 : * * * * * * Test Step  146* * * * * * 
+2024-02-27 15:45:13 : Step Name   : Wait Object
+2024-02-27 15:45:13 : Test Status : PASSED
+2024-02-27 15:45:13 : Test Data   : 
+2024-02-27 15:45:13 : * * * * * * Test Step  147* * * * * * 
+2024-02-27 15:45:13 : Step Name   : [BBO] Click [Back to Login]
+2024-02-27 15:45:13 : Test Status : PASSED
+2024-02-27 15:45:13 : Test Data   : N/A
+2024-02-27 15:45:13 : * * * * * * Test Step  149* * * * * * 
+2024-02-27 15:45:13 : Step Name   : Close Window
+2024-02-27 15:45:13 : Test Status : PASSED
+2024-02-27 15:45:13 : Test Data   : 
+2024-02-27 15:45:13 : * * * * * * Test Step  150* * * * * * 
+2024-02-27 15:45:13 : Step Name   : [IF]T+0
+2024-02-27 15:45:14 : Test Status : PASSED
+2024-02-27 15:45:14 : Test Data   : NO
+2024-02-27 15:45:14 : * * * * * * Test Step  151* * * * * * 
+2024-02-27 15:45:14 : Step Name   : Wait Object
+2024-02-27 15:45:14 : Test Status : PASSED
+2024-02-27 15:45:14 : Test Data   : 
+2024-02-27 15:45:14 : * * * * * * Test Step  152* * * * * * 
+2024-02-27 15:45:14 : Step Name   : [CFO] Input [User ID]
+2024-02-27 15:45:16 : Test Status : PASSED
+2024-02-27 15:45:16 : Test Data   : makauto7
+2024-02-27 15:45:16 : * * * * * * Test Step  153* * * * * * 
+2024-02-27 15:45:16 : Step Name   : [CFO] Click [Log In]
+2024-02-27 15:45:16 : Test Status : PASSED
+2024-02-27 15:45:16 : Test Data   : n/a
+2024-02-27 15:45:16 : * * * * * * Test Step  154* * * * * * 
+2024-02-27 15:45:16 : Step Name   : Wait Object
+2024-02-27 15:45:17 : Test Status : PASSED
+2024-02-27 15:45:17 : Test Data   : 
+2024-02-27 15:45:17 : * * * * * * Test Step  155* * * * * * 
+2024-02-27 15:45:17 : Step Name   : Wait Object
+2024-02-27 15:45:18 : Test Status : PASSED
+2024-02-27 15:45:18 : Test Data   : 
+2024-02-27 15:45:18 : * * * * * * Test Step  156* * * * * * 
+2024-02-27 15:45:18 : Step Name   : [CFO] Click [Yes]
+2024-02-27 15:45:18 : Test Status : PASSED
+2024-02-27 15:45:18 : Test Data   : n/a
+2024-02-27 15:45:18 : * * * * * * Test Step  157* * * * * * 
+2024-02-27 15:45:18 : Step Name   : Wait Object
+2024-02-27 15:45:19 : Test Status : PASSED
+2024-02-27 15:45:19 : Test Data   : 
+2024-02-27 15:45:19 : * * * * * * Test Step  158* * * * * * 
+2024-02-27 15:45:19 : Step Name   : [CFO] Input [Password]
+2024-02-27 15:45:21 : Test Status : PASSED
+2024-02-27 15:45:21 : Test Data   : Qaz123!@#
+2024-02-27 15:45:21 : * * * * * * Test Step  159* * * * * * 
+2024-02-27 15:45:21 : Step Name   : [CFO] Click [Log In]
+2024-02-27 15:45:21 : Test Status : PASSED
+2024-02-27 15:45:21 : Test Data   : n/a
+2024-02-27 15:45:21 : * * * * * * Test Step  160* * * * * * 
+2024-02-27 15:45:21 : Step Name   : Wait Object
+2024-02-27 15:45:31 : Test Status : PASSED
+2024-02-27 15:45:31 : Test Data   : 
+2024-02-27 15:45:31 : * * * * * * Test Step  161* * * * * * 
+2024-02-27 15:45:31 : Step Name   : Wait Object
+2024-02-27 15:45:34 : Test Status : PASSED
+2024-02-27 15:45:34 : Test Data   : 
+2024-02-27 15:45:34 : * * * * * * Test Step  162* * * * * * 
+2024-02-27 15:45:34 : Step Name   : [Push Notification] Click [Yes]
+2024-02-27 15:45:34 : Object Not Exist
+2024-02-27 15:45:34 : Test Status : FAILED
+2024-02-27 15:45:34 : Test Data   : n/a
+2024-02-27 15:45:34 : * * * * * * Test Step  163* * * * * * 
+2024-02-27 15:45:34 : Step Name   : Wait Object
+2024-02-27 15:45:36 : Test Status : PASSED
+2024-02-27 15:45:36 : Test Data   : 
+2024-02-27 15:45:36 : * * * * * * Test Step  164* * * * * * 
+2024-02-27 15:45:36 : Step Name   : Wait Object
+2024-02-27 15:45:36 : Test Status : PASSED
+2024-02-27 15:45:36 : Test Data   : 
+2024-02-27 15:45:36 : * * * * * * Test Step  165* * * * * * 
+2024-02-27 15:45:36 : Step Name   : [IF] LOGIN VALIDATION
+2024-02-27 15:45:36 : Object Exist
+2024-02-27 15:45:36 : Test Status : PASSED
+2024-02-27 15:45:36 : Test Data   : 
+2024-02-27 15:45:36 : * * * * * * Test Step  166* * * * * * 
+2024-02-27 15:45:36 : Step Name   : [IF] Popup
+2024-02-27 15:45:36 : Object Not Exist
+2024-02-27 15:45:36 : Test Status : FAILED
+2024-02-27 15:45:36 : Test Data   : 
+2024-02-27 15:45:36 : * * * * * * Test Step  169* * * * * * 
+2024-02-27 15:45:36 : Step Name   : Wait Object
+2024-02-27 15:45:36 : Test Status : PASSED
+2024-02-27 15:45:36 : Test Data   : 
+2024-02-27 15:45:36 : * * * * * * Test Step  170* * * * * * 
+2024-02-27 15:45:36 : Step Name   : [Home] Click [+] Button
+2024-02-27 15:45:37 : Test Status : PASSED
+2024-02-27 15:45:37 : Test Data   : N/A
+2024-02-27 15:45:37 : * * * * * * Test Step  171* * * * * * 
+2024-02-27 15:45:37 : Step Name   : Wait Object
+2024-02-27 15:45:38 : Test Status : PASSED
+2024-02-27 15:45:38 : Test Data   : 
+2024-02-27 15:45:38 : * * * * * * Test Step  172* * * * * * 
+2024-02-27 15:45:38 : Step Name   : Swipe Up
+2024-02-27 15:45:40 : Test Status : PASSED
+2024-02-27 15:45:40 : Test Data   : 20::80
+2024-02-27 15:45:40 : * * * * * * Test Step  173* * * * * * 
+2024-02-27 15:45:40 : Step Name   : [Home] Click [QR Pay] Button
+2024-02-27 15:45:41 : Test Status : PASSED
+2024-02-27 15:45:41 : Test Data   : N/A
+2024-02-27 15:45:41 : * * * * * * Test Step  174* * * * * * 
+2024-02-27 15:45:41 : Step Name   : Wait Object
+2024-02-27 15:45:43 : Test Status : PASSED
+2024-02-27 15:45:43 : Test Data   : 
+2024-02-27 15:45:43 : * * * * * * Test Step  175* * * * * * 
+2024-02-27 15:45:43 : Step Name   : [IF] Popup
+2024-02-27 15:45:47 : Object Not Exist
+2024-02-27 15:45:47 : Test Status : FAILED
+2024-02-27 15:45:47 : Test Data   : 
+2024-02-27 15:45:47 : * * * * * * Test Step  179* * * * * * 
+2024-02-27 15:45:47 : Step Name   : Wait Object
+2024-02-27 15:45:50 : Test Status : PASSED
+2024-02-27 15:45:50 : Test Data   : 
+2024-02-27 15:45:50 : * * * * * * Test Step  180* * * * * * 
+2024-02-27 15:45:50 : Step Name   : [IF] Physical Phone
+2024-02-27 15:45:50 : Test Status : PASSED
+2024-02-27 15:45:50 : Test Data   : AAB_REG_QR_CFO
+2024-02-27 15:45:50 : * * * * * * Test Step  181* * * * * * 
+2024-02-27 15:45:50 : Step Name   : Launch QR 
+2024-02-27 15:45:55 : Test Status : PASSED
+2024-02-27 15:45:55 : Test Data   : 
+2024-02-27 15:45:55 : * * * * * * Test Step  182* * * * * * 
+2024-02-27 15:45:55 : Step Name   : screenshot
+2024-02-27 15:46:06 : Test Status : PASSED
+2024-02-27 15:46:06 : Test Data   : 
+2024-02-27 15:46:06 : * * * * * * Test Step  184* * * * * * 
+2024-02-27 15:46:06 : Step Name   : [IF] TC =DuitNow
+2024-02-27 15:46:12 : Test Status : PASSED
+2024-02-27 15:46:12 : Test Data   : DuitNow
+2024-02-27 15:46:12 : * * * * * * Test Step  185* * * * * * 
+2024-02-27 15:46:12 : Step Name   : Wait Object
+2024-02-27 15:46:37 : Test Status : PASSED
+2024-02-27 15:46:37 : Test Data   : 
+2024-02-27 15:46:37 : * * * * * * Test Step  186* * * * * * 
+2024-02-27 15:46:37 : Step Name   : Swipe Up to Recipient Resident Status
+2024-02-27 15:46:37 : object found and clickable
+2024-02-27 15:46:37 : Test Status : PASSED
+2024-02-27 15:46:37 : Test Data   : 20::50
+2024-02-27 15:46:37 : * * * * * * Test Step  187* * * * * * 
+2024-02-27 15:46:37 : Step Name   : [QRPAY] Select [Recipient Resident Status]
+2024-02-27 15:46:38 : Test Status : PASSED
+2024-02-27 15:46:38 : Test Data   : N/A
+2024-02-27 15:46:38 : * * * * * * Test Step  188* * * * * * 
+2024-02-27 15:46:38 : Step Name   : Swipe Up to Amount
+2024-02-27 15:46:38 : object not found, prepare to swipe
+2024-02-27 15:46:40 : done swipe action
+2024-02-27 15:46:41 : object found and clickable
+2024-02-27 15:46:41 : Test Status : PASSED
+2024-02-27 15:46:41 : Test Data   : 20::60
+2024-02-27 15:46:41 : * * * * * * Test Step  189* * * * * * 
+2024-02-27 15:46:41 : Step Name   : [QRPAY] Input [Amount]
+2024-02-27 15:46:42 : Test Status : PASSED
+2024-02-27 15:46:42 : Test Data   : 30,000.00
+2024-02-27 15:46:42 : * * * * * * Test Step  190* * * * * * 
+2024-02-27 15:46:42 : Step Name   : Swipe Up to Date
+2024-02-27 15:46:42 : object not found, prepare to swipe
+2024-02-27 15:46:44 : done swipe action
+2024-02-27 15:46:44 : object found and clickable
+2024-02-27 15:46:44 : Test Status : PASSED
+2024-02-27 15:46:44 : Test Data   : 20::50
+2024-02-27 15:46:44 : * * * * * * Test Step  191* * * * * * 
+2024-02-27 15:46:44 : Step Name   : [CFO] Click [Date]
+2024-02-27 15:46:45 : Test Status : PASSED
+2024-02-27 15:46:45 : Test Data   : N/A
+2024-02-27 15:46:45 : * * * * * * Test Step  200* * * * * * 
+2024-02-27 15:46:45 : Step Name   : [IF] Today Day is greater than 15
+2024-02-27 15:46:45 : Test Status : PASSED
+2024-02-27 15:46:45 : Test Data   : 27
+2024-02-27 15:46:45 : * * * * * * Test Step  201* * * * * * 
+2024-02-27 15:46:45 : Step Name   : Wait Object
+2024-02-27 15:46:46 : Test Status : PASSED
+2024-02-27 15:46:46 : Test Data   : 
+2024-02-27 15:46:46 : * * * * * * Test Step  202* * * * * * 
+2024-02-27 15:46:46 : Step Name   : [Local Transfer] Select [Date]
+2024-02-27 15:46:47 : Test Status : PASSED
+2024-02-27 15:46:47 : Test Data   : 27
+2024-02-27 15:46:47 : * * * * * * Test Step  213* * * * * * 
+2024-02-27 15:46:47 : Step Name   : [CFO] Click [Done]
+2024-02-27 15:46:47 : Test Status : PASSED
+2024-02-27 15:46:47 : Test Data   : N/A
+2024-02-27 15:46:47 : * * * * * * Test Step  214* * * * * * 
+2024-02-27 15:46:47 : Step Name   : [IF] TC =DuitNow
+2024-02-27 15:46:47 : Test Status : PASSED
+2024-02-27 15:46:47 : Test Data   : DuitNow
+2024-02-27 15:46:47 : * * * * * * Test Step  215* * * * * * 
+2024-02-27 15:46:47 : Step Name   : Swipe Up to Other Payment Details
+2024-02-27 15:46:48 : object found and clickable
+2024-02-27 15:46:48 : Test Status : PASSED
+2024-02-27 15:46:48 : Test Data   : 20::40
+2024-02-27 15:46:48 : * * * * * * Test Step  216* * * * * * 
+2024-02-27 15:46:48 : Step Name   : [QRPAY] Input [Recipient Reference]
+2024-02-27 15:46:50 : Test Status : PASSED
+2024-02-27 15:46:50 : Test Data   : 8BoNEd
+2024-02-27 15:46:50 : * * * * * * Test Step  218* * * * * * 
+2024-02-27 15:46:50 : Step Name   : Swipe Up to Next
+2024-02-27 15:46:50 : object not found, prepare to swipe
+2024-02-27 15:46:52 : done swipe action
+2024-02-27 15:46:52 : object not found, prepare to swipe
+2024-02-27 15:46:54 : done swipe action
+2024-02-27 15:46:54 : object found and clickable
+2024-02-27 15:46:55 : Test Status : PASSED
+2024-02-27 15:46:55 : Test Data   : 20::60
+2024-02-27 15:46:55 : * * * * * * Test Step  219* * * * * * 
+2024-02-27 15:46:55 : Step Name   : [QRPAY] Input [Remarks]
+2024-02-27 15:46:56 : Test Status : PASSED
+2024-02-27 15:46:56 : Test Data   : AABAA_QRPay_VerifyLimit_09
+2024-02-27 15:46:56 : * * * * * * Test Step  220* * * * * * 
+2024-02-27 15:46:56 : Step Name   : [QRPAY] Click [Next]
+2024-02-27 15:46:56 : Test Status : PASSED
+2024-02-27 15:46:56 : Test Data   : N/A
+2024-02-27 15:46:56 : * * * * * * Test Step  222* * * * * * 
+2024-02-27 15:46:56 : Step Name   : CloseWindow
+2024-02-27 15:46:57 : Test Status : PASSED
+2024-02-27 15:46:57 : Test Data   : 
+2024-02-27 15:46:57 : * * * * * * Test Step  223* * * * * * 
+2024-02-27 15:46:57 : Step Name   : [IF] TC =AABAA_QRPay_VerifyLimit_09
+2024-02-27 15:46:57 : Test Status : PASSED
+2024-02-27 15:46:57 : Test Data   : AABAA_QRPay_VerifyLimit_09
+2024-02-27 15:46:57 : * * * * * * Test Step  224* * * * * * 
+2024-02-27 15:46:57 : Step Name   : Wait Object
+2024-02-27 15:47:00 : Test Status : PASSED
+2024-02-27 15:47:00 : Test Data   : 
+2024-02-27 15:47:00 : * * * * * * Test Step  225* * * * * * 
+2024-02-27 15:47:00 : Step Name   : [CFO] Verify [Status]
+2024-02-27 15:47:00 : Test Status : PASSED
+2024-02-27 15:47:00 : Test Data   : 
+2024-02-27 15:47:00 : * * * * * * Test Step  226* * * * * * 
+2024-02-27 15:47:00 : Step Name   : Success Log Out
+2024-02-27 15:47:00 : Test Status : PASSED
+2024-02-27 15:47:00 : Test Data   : END
+2024-02-27 15:47:00 : *************************************************
+2024-02-27 15:47:00 : 			PRODUCING REPORT
+2024-02-27 15:47:00 : *************************************************
+2024-02-27 15:47:00 : Generate HTM
+2024-02-27 15:47:00 : Generate DOC
+2024-02-27 15:47:02 : ***********************END***********************

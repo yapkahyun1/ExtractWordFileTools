@@ -1,0 +1,179 @@
+2024-02-27 12:37:02 : *************************************************
+2024-02-27 12:37:02 : * * * * * * AABAA_QRPay_PayToP2P_06
+2024-02-27 12:37:02 : *************************************************
+2024-02-27 12:37:02 : * * * * * * Test Step  1* * * * * * 
+2024-02-27 12:37:02 : Step Name   : Launch App
+2024-02-27 12:37:05 : Test Status : PASSED
+2024-02-27 12:37:05 : Test Data   : 
+2024-02-27 12:37:08 : * * * * * * Test Step  2* * * * * * 
+2024-02-27 12:37:08 : Step Name   : [IF] Supporting Case
+2024-02-27 12:37:08 : Test Status : FAILED
+2024-02-27 12:37:08 : Test Data   : NO
+2024-02-27 12:37:08 : * * * * * * Test Step  4* * * * * * 
+2024-02-27 12:37:08 : Step Name   : [IF] Supporting Case
+2024-02-27 12:37:09 : Test Status : FAILED
+2024-02-27 12:37:09 : Test Data   : ChangeImage
+2024-02-27 12:37:09 : * * * * * * Test Step  10* * * * * * 
+2024-02-27 12:37:09 : Step Name   : CloseWindow
+2024-02-27 12:37:09 : Test Status : PASSED
+2024-02-27 12:37:09 : Test Data   : 
+2024-02-27 12:37:12 : * * * * * * Test Step  11* * * * * * 
+2024-02-27 12:37:12 : Step Name   : [Launch Page - BBO Page]
+2024-02-27 12:37:12 : Test Status : PASSED
+2024-02-27 12:37:12 : Test Data   : CHROME
+2024-02-27 12:37:12 : * * * * * * Test Step  12* * * * * * 
+2024-02-27 12:37:12 : Step Name   : [IF] Change Service Package
+2024-02-27 12:37:12 : Test Status : FAILED
+2024-02-27 12:37:12 : Test Data   : NO
+2024-02-27 12:37:16 : * * * * * * Test Step  129* * * * * * 
+2024-02-27 12:37:16 : Step Name   : [Close Page - BBO Page]
+2024-02-27 12:37:16 : Test Status : PASSED
+2024-02-27 12:37:16 : Test Data   : 
+2024-02-27 12:37:19 : * * * * * * Test Step  130* * * * * * 
+2024-02-27 12:37:19 : Step Name   : Launch New Browser
+2024-02-27 12:37:19 : Test Status : PASSED
+2024-02-27 12:37:19 : Test Data   : CHROME
+2024-02-27 12:37:19 : * * * * * * Test Step  131* * * * * * 
+2024-02-27 12:37:19 : Step Name   : [IF] Verify Duitnow Limit
+2024-02-27 12:37:19 : Test Status : FAILED
+2024-02-27 12:37:19 : Test Data   : NO
+2024-02-27 12:37:20 : * * * * * * Test Step  149* * * * * * 
+2024-02-27 12:37:20 : Step Name   : Close Window
+2024-02-27 12:37:20 : Test Status : PASSED
+2024-02-27 12:37:20 : Test Data   : 
+2024-02-27 12:37:20 : * * * * * * Test Step  150* * * * * * 
+2024-02-27 12:37:20 : Step Name   : [IF]T+0
+2024-02-27 12:37:20 : Test Status : PASSED
+2024-02-27 12:37:20 : Test Data   : NO
+2024-02-27 12:37:20 : * * * * * * Test Step  151* * * * * * 
+2024-02-27 12:37:20 : Step Name   : Wait Object
+2024-02-27 12:37:21 : Test Status : PASSED
+2024-02-27 12:37:21 : Test Data   : 
+2024-02-27 12:37:21 : * * * * * * Test Step  152* * * * * * 
+2024-02-27 12:37:21 : Step Name   : [CFO] Input [User ID]
+2024-02-27 12:37:23 : Test Status : PASSED
+2024-02-27 12:37:23 : Test Data   : makauto7
+2024-02-27 12:37:23 : * * * * * * Test Step  153* * * * * * 
+2024-02-27 12:37:23 : Step Name   : [CFO] Click [Log In]
+2024-02-27 12:37:23 : Test Status : PASSED
+2024-02-27 12:37:23 : Test Data   : n/a
+2024-02-27 12:37:23 : * * * * * * Test Step  154* * * * * * 
+2024-02-27 12:37:23 : Step Name   : Wait Object
+2024-02-27 12:37:24 : Test Status : PASSED
+2024-02-27 12:37:24 : Test Data   : 
+2024-02-27 12:37:24 : * * * * * * Test Step  155* * * * * * 
+2024-02-27 12:37:24 : Step Name   : Wait Object
+2024-02-27 12:37:25 : Test Status : PASSED
+2024-02-27 12:37:25 : Test Data   : 
+2024-02-27 12:37:25 : * * * * * * Test Step  156* * * * * * 
+2024-02-27 12:37:25 : Step Name   : [CFO] Click [Yes]
+2024-02-27 12:37:26 : Test Status : PASSED
+2024-02-27 12:37:26 : Test Data   : n/a
+2024-02-27 12:37:26 : * * * * * * Test Step  157* * * * * * 
+2024-02-27 12:37:26 : Step Name   : Wait Object
+2024-02-27 12:37:27 : Test Status : PASSED
+2024-02-27 12:37:27 : Test Data   : 
+2024-02-27 12:37:27 : * * * * * * Test Step  158* * * * * * 
+2024-02-27 12:37:27 : Step Name   : [CFO] Input [Password]
+2024-02-27 12:37:28 : Test Status : PASSED
+2024-02-27 12:37:28 : Test Data   : Qaz123!@#
+2024-02-27 12:37:28 : * * * * * * Test Step  159* * * * * * 
+2024-02-27 12:37:28 : Step Name   : [CFO] Click [Log In]
+2024-02-27 12:37:29 : Test Status : PASSED
+2024-02-27 12:37:29 : Test Data   : n/a
+2024-02-27 12:37:29 : * * * * * * Test Step  160* * * * * * 
+2024-02-27 12:37:29 : Step Name   : Wait Object
+2024-02-27 12:37:39 : Test Status : PASSED
+2024-02-27 12:37:39 : Test Data   : 
+2024-02-27 12:37:39 : * * * * * * Test Step  161* * * * * * 
+2024-02-27 12:37:39 : Step Name   : Wait Object
+2024-02-27 12:37:41 : Test Status : PASSED
+2024-02-27 12:37:41 : Test Data   : 
+2024-02-27 12:37:41 : * * * * * * Test Step  162* * * * * * 
+2024-02-27 12:37:41 : Step Name   : [Push Notification] Click [Yes]
+2024-02-27 12:37:42 : Object Not Exist
+2024-02-27 12:37:42 : Test Status : FAILED
+2024-02-27 12:37:42 : Test Data   : n/a
+2024-02-27 12:37:42 : * * * * * * Test Step  163* * * * * * 
+2024-02-27 12:37:42 : Step Name   : Wait Object
+2024-02-27 12:37:43 : Test Status : PASSED
+2024-02-27 12:37:43 : Test Data   : 
+2024-02-27 12:37:43 : * * * * * * Test Step  164* * * * * * 
+2024-02-27 12:37:43 : Step Name   : Wait Object
+2024-02-27 12:37:44 : Test Status : PASSED
+2024-02-27 12:37:44 : Test Data   : 
+2024-02-27 12:37:44 : * * * * * * Test Step  165* * * * * * 
+2024-02-27 12:37:44 : Step Name   : [IF] LOGIN VALIDATION
+2024-02-27 12:37:44 : Object Exist
+2024-02-27 12:37:44 : Test Status : PASSED
+2024-02-27 12:37:44 : Test Data   : 
+2024-02-27 12:37:44 : * * * * * * Test Step  166* * * * * * 
+2024-02-27 12:37:44 : Step Name   : [IF] Popup
+2024-02-27 12:37:44 : Object Not Exist
+2024-02-27 12:37:44 : Test Status : FAILED
+2024-02-27 12:37:44 : Test Data   : 
+2024-02-27 12:37:44 : * * * * * * Test Step  169* * * * * * 
+2024-02-27 12:37:44 : Step Name   : Wait Object
+2024-02-27 12:37:44 : Test Status : PASSED
+2024-02-27 12:37:44 : Test Data   : 
+2024-02-27 12:37:44 : * * * * * * Test Step  170* * * * * * 
+2024-02-27 12:37:44 : Step Name   : [Home] Click [+] Button
+2024-02-27 12:37:45 : Test Status : PASSED
+2024-02-27 12:37:45 : Test Data   : N/A
+2024-02-27 12:37:45 : * * * * * * Test Step  171* * * * * * 
+2024-02-27 12:37:45 : Step Name   : Wait Object
+2024-02-27 12:37:46 : Test Status : PASSED
+2024-02-27 12:37:46 : Test Data   : 
+2024-02-27 12:37:46 : * * * * * * Test Step  172* * * * * * 
+2024-02-27 12:37:46 : Step Name   : Swipe Up
+2024-02-27 12:37:48 : Test Status : PASSED
+2024-02-27 12:37:48 : Test Data   : 20::80
+2024-02-27 12:37:48 : * * * * * * Test Step  173* * * * * * 
+2024-02-27 12:37:48 : Step Name   : [Home] Click [QR Pay] Button
+2024-02-27 12:37:49 : Test Status : PASSED
+2024-02-27 12:37:49 : Test Data   : N/A
+2024-02-27 12:37:49 : * * * * * * Test Step  174* * * * * * 
+2024-02-27 12:37:49 : Step Name   : Wait Object
+2024-02-27 12:37:51 : Test Status : PASSED
+2024-02-27 12:37:51 : Test Data   : 
+2024-02-27 12:37:51 : * * * * * * Test Step  175* * * * * * 
+2024-02-27 12:37:51 : Step Name   : [IF] Popup
+2024-02-27 12:37:55 : Object Not Exist
+2024-02-27 12:37:55 : Test Status : FAILED
+2024-02-27 12:37:55 : Test Data   : 
+2024-02-27 12:37:55 : * * * * * * Test Step  179* * * * * * 
+2024-02-27 12:37:55 : Step Name   : Wait Object
+2024-02-27 12:37:56 : Test Status : PASSED
+2024-02-27 12:37:56 : Test Data   : 
+2024-02-27 12:37:59 : * * * * * * Test Step  180* * * * * * 
+2024-02-27 12:37:59 : Step Name   : [IF] Physical Phone
+2024-02-27 12:37:59 : Test Status : PASSED
+2024-02-27 12:37:59 : Test Data   : AAB_REG_QR_CFO
+2024-02-27 12:37:59 : * * * * * * Test Step  181* * * * * * 
+2024-02-27 12:37:59 : Step Name   : Launch QR 
+2024-02-27 12:38:04 : Test Status : PASSED
+2024-02-27 12:38:04 : Test Data   : 
+2024-02-27 12:38:04 : * * * * * * Test Step  182* * * * * * 
+2024-02-27 12:38:04 : Step Name   : screenshot
+2024-02-27 12:38:19 : Test Status : PASSED
+2024-02-27 12:38:19 : Test Data   : 
+2024-02-27 12:38:19 : * * * * * * Test Step  184* * * * * * 
+2024-02-27 12:38:19 : Step Name   : [IF] TC =DuitNow
+2024-02-27 12:38:24 : Test Status : PASSED
+2024-02-27 12:38:24 : Test Data   : DuitNow
+2024-02-27 12:38:24 : * * * * * * Test Step  185* * * * * * 
+2024-02-27 12:38:24 : Step Name   : Wait Object
+2024-02-27 12:39:24 : Expected condition failed: waiting for element to be clickable: By.xpath: //android.widget.TextView[@text='Transfer From'] (tried for 60 second(s) with 500 milliseconds interval)
+2024-02-27 12:39:24 : Test Status : PASSED
+2024-02-27 12:39:24 : Test Data   : 
+2024-02-27 12:39:24 : * * * * * * Test Step  186* * * * * * 
+2024-02-27 12:39:24 : Step Name   : Swipe Up to Recipient Resident Status
+2024-02-27 12:39:29 : object not found, prepare to swipe
+2024-02-27 12:39:36 : Test Status : FAILED
+2024-02-27 12:39:36 : Test Data   : 20::50
+2024-02-27 12:39:36 : *************************************************
+2024-02-27 12:39:36 : 			PRODUCING REPORT
+2024-02-27 12:39:36 : *************************************************
+2024-02-27 12:39:36 : Generate HTM
+2024-02-27 12:39:36 : Generate DOC
+2024-02-27 12:39:37 : ***********************END***********************
